@@ -1,6 +1,5 @@
 Lenguajes de programación que conoce
-
-C#
++C#
 Herramientas de desarrollo que usa
 
 Visual studio 2019
