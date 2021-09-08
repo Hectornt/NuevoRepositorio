@@ -1,0 +1,14 @@
+Lenguajes de programación que conoce
+- C#
+Herramientas de desarrollo que usa
+- Visual studio 2019
+Ya ha trabajado antes con Git/GitHub o es su primera vez?
+-no
+Conoce usted el lenguaje Java?
+-no
+Tiene conocimiento o ha trabajado con Bases de datos?
+-no
+Conoce o alguna vez ha trabajado con el lenguaje de consultas SQL?
+-no
+Trabaja usted atualmente? En el area de sistemas?
+-no
