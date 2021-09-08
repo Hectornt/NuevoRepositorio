@@ -1,11 +1,11 @@
 Lenguajes de programación que conoce
-+C#
++ C#
 Herramientas de desarrollo que usa
 
 Visual studio 2019
 Ya ha trabajado antes con Git/GitHub o es su primera vez?
 
-no
+no, es la primera vez que uso git/github
 
 Conoce usted el lenguaje Java?
 
