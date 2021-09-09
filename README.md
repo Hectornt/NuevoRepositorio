@@ -1,2 +1,2 @@
-Héctor Manuel Ocampo Cágal
-20100244
+Nombre: Héctor Manuel Ocampo Cágal
+N° control: 20100244
