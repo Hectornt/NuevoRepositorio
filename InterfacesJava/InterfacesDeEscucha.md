@@ -1,6 +1,9 @@
 # Interfaces de escucha  
 
-- __Action listener:__  Esta interfaz se utiliza para recibir los eventos de acción.  
+##### - __Action listener__  
+Esta interfaz se utiliza para recibir los eventos de acción.  
+**Metodos:** actionPerformed(ActionEvent e)  
+
 - __ComponentListener:__ Esta interfaz se utiliza para recibir los eventos de los componentes.  
 - __ItemListener:__ Esta interfaz se utiliza para recibir los eventos del artículo.  
 - __KeyListener:__ Esta interfaz se utiliza para recibir los eventos clave.
