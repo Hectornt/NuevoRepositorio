@@ -1,5 +1,5 @@
 # Interfaces de escucha  
--  __Action listener__ Esta interfaz se utiliza para recibir los eventos de acción.
+-  __Action listener: __ Esta interfaz se utiliza para recibir los eventos de acción.
 
   
 
