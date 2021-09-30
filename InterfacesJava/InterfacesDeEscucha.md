@@ -5,8 +5,11 @@ Esta interfaz se utiliza para recibir los eventos de acción.
 
 - __ComponentListener__   
 Esta interfaz se utiliza para recibir los eventos de los componentes.  
-**Metodos:** componentHidden(ComponentEvent e), omponentMoved(ComponentEvent e), componentResized(ComponentEvent e), omponentShown(ComponentEvent e)  
-  
+**Metodos:**    - componentHidden(ComponentEvent e)  
+    - omponentMoved(ComponentEvent e)  
+        - componentResized(ComponentEvent e)  
+          - omponentShown(ComponentEvent e)  
+
 - __ItemListener__ Esta interfaz se utiliza para recibir los eventos del artículo.  
 - __KeyListener__ Esta interfaz se utiliza para recibir los eventos clave.
 - __MouseListener__ Esta interfaz se utiliza para recibir los eventos del mouse.
